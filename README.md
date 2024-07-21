@@ -1,5 +1,3 @@
-ATS Resume Analyser
-Description:
 ATS Resume Analyser is a Python-based application designed to analyze and rank resumes based on their relevance to a job description. This tool leverages Natural Language Processing (NLP) to extract and compare keywords from resumes and job descriptions, providing a comprehensive score that aids in the recruitment process.
 
 Features:
