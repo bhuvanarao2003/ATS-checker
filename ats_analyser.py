@@ -27,11 +27,11 @@ def compare_resume(resume_text, job_desc_text):
     keyword_score = len(common_keywords) / len(set(job_desc_keywords)) * 100
 
     # Placeholder for other aspects
-    experience_score = 80  # Example score
-    skills_score = 70      # Example score
-    education_score = 90   # Example score
-    structure_score = 85   # Example score
-    language_score = 75    # Example score
+    experience_score = 80  
+    skills_score = 70      
+    education_score = 90  
+    structure_score = 85   
+    language_score = 75    
 
     # Calculate overall score
     overall_score = (keyword_score + experience_score + skills_score + 
